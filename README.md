@@ -38,35 +38,32 @@ Main dependencies:
 Install all dependencies:
 ```bash
 pip install -r requirements.txt
+---
+
+## ⚙️ Results
+
+**Test file:** 4:45 minutes audio with 3 speakers (two male + one female).
+
+**Outputs:**
+- Accurate transcription
+- Clear speaker separation (**silhouette score ≈ 0.85**)
+- Word-level confidence scores
+
+### Example Visualizations
+- Speaker Timeline  
+- Speaking Time per Speaker  
+- Speech Proportion  
 
 ---
-## ⚙️ 📊 Results
-
-Test file: 4:45 minutes audio with 3 speakers (two male + one female).
-
-Outputs:
-
-Accurate transcription
-
-Clear speaker separation (silhouette score ≈ 0.85)
-
-Word-level confidence scores
-
-Example Visualizations
-Speaker Timeline
-
-Speaking Time per Speaker
-
-Speech Proportion
 
 ## 🌍 Applications
+- Meeting transcription  
+- Call center analytics  
+- Sports commentary & media production  
 
-Meeting transcription
-
-Call center analytics
-
-Sports commentary & media production
+---
 
 ## ✨ Author
+**Mohammadreza Tabatabaei**  
 
-Mohammadreza Tabatabaei
+
